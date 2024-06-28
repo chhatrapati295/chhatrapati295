@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Chhatrapati Chauhan! 👋
 
-<!--
-**chhatrapati295/chhatrapati295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate Frontend Engineer. I enjoy building user-friendly and responsive web applications. Here's a glimpse of what you'll find in my repositories:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **HTML:** 
+- **CSS:** 
+- **JavaScript:** 
+- **React:** 
+- **Redux:** 
+- **Next js:** 
+- **Bootstrap:** 
+- **RestAPI:** 
+
+## Connect with Me
+
+Let's connect and collaborate on exciting projects! You can reach me via:
+
+- [Profile](https://chhatrapati-dev.netlify.app/)
+- [LinkedIn](https://www.linkedin.com/in/chhatrapati8279/)
+- [Email](mailto:chhatrapati1511@gmail.com)
+
+Feel free to explore my repositories and reach out if you have any questions or suggestions. Happy coding! 😊
