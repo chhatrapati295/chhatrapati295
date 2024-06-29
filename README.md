@@ -35,3 +35,7 @@ Let's connect and collaborate on exciting projects! You can reach me via:
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to explore my repositories and reach out if you have any questions or suggestions.
 
 **Happy coding! 😊**
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chhatrapati295&theme=onedark&show_icons=true&locale=en&layout=compact" alt="chhatrapati295" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhatrapati295&theme=onedark&show_icons=true&locale=en" alt="chhatrapati295" /></p>
