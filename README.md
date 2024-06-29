@@ -1,6 +1,5 @@
-# Hey! I'm Chhatrapati 👋
 
-Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** who loves building user-friendly and responsive web applications. I believe in writing clean, efficient code and continually improving my skills. Here's a glimpse of what you'll find in my repositories:
+Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** who loves building user-friendly and responsive web applications. Here's a glimpse of what you'll find in my repositories:
 
 ## 🚀 Skills
 
