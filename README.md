@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** who loves b
 - **Next.js/React/Supabase:** Building modern, scalable front-end applications
 - **Tailwind CSS/Framer Motion/Ant Design/Material-UI/Bootstrap:** Rapidly building modern and responsive designs
 
-![Chhatrapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhatrapati295&hide=contribs,prs&show_icons=true)
+![Chhatrapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhatrapati295&hide=contribs,prs&show_icons=true&theme=dark)
 
 **Happy coding! 😊**
 
