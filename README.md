@@ -22,4 +22,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 **Happy coding! 😊**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhatrapati295&theme=onedark&show_icons=true&locale=en" alt="chhatrapati295" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chhatrapati295&theme=transparent&show_icons=true&locale=en" alt="chhatrapati295" /></p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chhatrapati295&hide_progress=true)
