@@ -10,5 +10,6 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** who loves b
 
 ![Chhatrapati's GitHub stats](https://github-readme-stats.vercel.app/api?username=chhatrapati295&hide=contribs,prs&show_icons=true&theme=dark)
 
-**Happy coding! 😊**
+---
+[![](https://visitcount.itsvg.in/api?id=chhatrapati295&icon=0&color=0)](https://visitcount.itsvg.in)
 
