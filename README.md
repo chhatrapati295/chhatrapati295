@@ -7,8 +7,6 @@
 </div>
 
 
-<h1 align="center">Chhatrapati.dev</h1>
-
 Welcome to my GitHub profile! I'm a passionate **Frontend Engineer** who loves building user-friendly and responsive web applications. Here's a glimpse of what you'll find in my repositories:
 
 ## 🚀 Skills
