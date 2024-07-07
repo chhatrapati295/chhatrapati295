@@ -1,8 +1,8 @@
 <div>
-  <div align="left"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="30" width="30" align="left"></div>
-    <div align="right"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" height="30" width="30" align="right"></div>
+<!--   <div align="left"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="30" width="30" align="left"></div> -->
+    <div align="right"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" height="50" width="50" align="right"></div>
   
-  <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" height="200" width="300"></div>
+  <div align="center"><img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" height="250" width="400"></div>
 
 </div>
 
